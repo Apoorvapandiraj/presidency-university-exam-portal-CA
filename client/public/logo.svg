@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <path d="M50 4 90 18v30c0 24-17 40-40 48C27 88 10 72 10 48V18z" fill="#1b2a5c"/>
+  <path d="M50 12 82 23v25c0 19-13 32-32 39C31 80 18 67 18 48V23z" fill="none" stroke="#d4a82b" stroke-width="2.5"/>
+  <text x="50" y="58" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#d4a82b">PU</text>
+</svg>

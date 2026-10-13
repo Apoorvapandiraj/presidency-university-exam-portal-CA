@@ -1,0 +1,13 @@
+{
+  "name": "presidency-exam-portal",
+  "version": "1.0.0",
+  "private": true,
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "postinstall": "npm install --prefix server",
+    "dev": "concurrently -n server,client \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm install --prefix client --include=dev && npm run build --prefix client",
+    "start": "node server/index.js"
+  },
+  "devDependencies": { "concurrently": "^8.2.2" }
+}

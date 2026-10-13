@@ -1,0 +1,501 @@
+[
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "What is the FIRST step in the problem-solving process?",
+  "options": [
+   "Generate possible solutions",
+   "Identify and define the problem",
+   "Implement a solution",
+   "Evaluate the result"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which of the following is NOT a characteristic of a good algorithm?",
+  "options": [
+   "Finiteness",
+   "Precision",
+   "Ambiguity",
+   "Generality"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "An algorithm must always terminate after executing ______ instructions.",
+  "options": [
+   "an infinite number of",
+   "a finite number of",
+   "exactly 10",
+   "zero"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "A flowchart is best described as:",
+  "options": [
+   "A graphical representation of an algorithm or process",
+   "A compiled machine program",
+   "A list of C keywords",
+   "A type of loop"
+  ],
+  "correct": 0,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "C language was developed by Dennis Ritchie in 1972 at:",
+  "options": [
+   "Microsoft",
+   "IBM Research",
+   "AT&T Bell Labs",
+   "Sun Microsystems"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "The first ANSI-approved version of C (C89) was released in:",
+  "options": [
+   "1972",
+   "1989",
+   "1995",
+   "1999"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "According to the course notes, how many keywords does C have?",
+  "options": [
+   "24",
+   "32",
+   "40",
+   "64"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which section of a C program contains #include directives?",
+  "options": [
+   "Documentation section",
+   "Link section",
+   "Subprogram section",
+   "Global declaration section"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "printf() and scanf() are declared in which header file?",
+  "options": [
+   "conio.h",
+   "stdlib.h",
+   "stdio.h",
+   "string.h"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "A C source file is normally saved with which extension?",
+  "options": [
+   ".cpp",
+   ".c",
+   ".exe",
+   ".obj"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "The compiler translates the source program into:",
+  "options": [
+   "Object (machine) code",
+   "Flowcharts",
+   "Pseudocode",
+   "Comments"
+  ],
+  "correct": 0,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which of the following is a valid C identifier?",
+  "options": [
+   "2count",
+   "_total",
+   "int",
+   "my-var"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which format specifier is used to print a float value?",
+  "options": [
+   "%d",
+   "%c",
+   "%f",
+   "%s"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which format specifier is used for a single character?",
+  "options": [
+   "%c",
+   "%s",
+   "%d",
+   "%f"
+  ],
+  "correct": 0,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "How many bytes of memory does the string literal \"hello\" occupy (including the null character)?",
+  "options": [
+   "5",
+   "6",
+   "7",
+   "4"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which function reads a single character from the keyboard?",
+  "options": [
+   "putchar()",
+   "getchar()",
+   "puts()",
+   "printf()"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "What value does i hold after: i = putchar('a');",
+  "options": [
+   "'a'",
+   "0",
+   "97",
+   "1"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which of the following is a ternary operator in C?",
+  "options": [
+   "++",
+   "&&",
+   "?:",
+   "<<"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "In C, the variables Age and age are:",
+  "options": [
+   "The same variable",
+   "Different variables (C is case sensitive)",
+   "A compile error",
+   "Same on Windows only"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "What is the value of the expression 10 + 4 * 3 / 2 ?",
+  "options": [
+   "21",
+   "16",
+   "13",
+   "22"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "What is the value of 17 % 5 ?",
+  "options": [
+   "3",
+   "1",
+   "0",
+   "2"
+  ],
+  "correct": 3,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "int x = 3; printf(\"%d\", x++); What is printed?",
+  "options": [
+   "3",
+   "4",
+   "2",
+   "5"
+  ],
+  "correct": 0,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which operator performs bitwise XOR?",
+  "options": [
+   "&",
+   "|",
+   "^",
+   "~"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "What is the value of 5 | 3 (bitwise OR)?",
+  "options": [
+   "8",
+   "2",
+   "7",
+   "1"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "What is the value of 1 << 3 ?",
+  "options": [
+   "3",
+   "4",
+   "6",
+   "8"
+  ],
+  "correct": 3,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "The automatic conversion of one data type to another by the compiler is called:",
+  "options": [
+   "Explicit casting",
+   "Implicit type conversion (coercion)",
+   "Type erasure",
+   "Overloading"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "int a = 10, b = 4; float c = (float)a / b; printf(\"%.1f\", c); prints:",
+  "options": [
+   "2.0",
+   "2.5",
+   "3.0",
+   "2.4"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which loop is an exit-controlled loop?",
+  "options": [
+   "for",
+   "while",
+   "do-while",
+   "None of these"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "A do-while loop executes its body at least:",
+  "options": [
+   "zero times",
+   "one time",
+   "two times",
+   "infinite times"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "In a switch statement, if break is omitted after a matching case, then:",
+  "options": [
+   "A compile-time error occurs",
+   "The default case is skipped",
+   "Execution falls through to the following cases",
+   "The loop restarts"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which statement skips the rest of the current loop iteration and moves to the next one?",
+  "options": [
+   "break",
+   "continue",
+   "return",
+   "goto"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "A break statement inside a nested loop terminates:",
+  "options": [
+   "All loops",
+   "Only the outer loop",
+   "Only the innermost loop",
+   "The program"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "How many times does the body run: for (i = 0; i < 5; i++) { ... }",
+  "options": [
+   "4",
+   "5",
+   "6",
+   "0"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Which of the following types cannot be used as the switch expression?",
+  "options": [
+   "int",
+   "char",
+   "float",
+   "short"
+  ],
+  "correct": 2,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "In an if-else-if ladder, once a condition is true:",
+  "options": [
+   "All remaining conditions are still tested",
+   "The remaining conditions are skipped",
+   "The program exits",
+   "The else part also runs"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "Assignment operators (=, +=, -=) are evaluated with which associativity?",
+  "options": [
+   "Left to right",
+   "Right to left",
+   "Random",
+   "No associativity"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "mcq",
+  "difficulty": "easy",
+  "text": "int x = 5; int y = -x; What is stored in y?",
+  "options": [
+   "5",
+   "-5",
+   "0",
+   "Error"
+  ],
+  "correct": 1,
+  "marks": 1
+ },
+ {
+  "type": "coding",
+  "difficulty": "easy",
+  "marks": 5,
+  "text": "Module 1 – Input/Output\nWrite a C program that reads two integers using scanf() and prints their sum using printf().\n\nSample Input:\n3 4\nSample Output:\nSum = 7"
+ },
+ {
+  "type": "coding",
+  "difficulty": "easy",
+  "marks": 5,
+  "text": "Module 2 – Decision Making\nWrite a C program that reads an integer and uses if-else to print whether it is EVEN or ODD.\n\nSample Input:\n7\nSample Output:\nODD"
+ },
+ {
+  "type": "coding",
+  "difficulty": "hard",
+  "marks": 10,
+  "text": "Module 2 – Nested Loops\nWrite a C program that reads a positive integer n and prints all prime numbers from 2 to n using nested loops (use break/continue where helpful). After the list, print the total count of primes found.\n\nSample Input:\n20\nSample Output:\n2 3 5 7 11 13 17 19\nCount = 8"
+ }
+]
