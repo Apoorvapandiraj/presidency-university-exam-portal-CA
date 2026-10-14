@@ -17,7 +17,7 @@ app.use(express.json({ limit: '1mb' }));
 
 const SECRET = process.env.JWT_SECRET || 'dev-secret-change-me';
 const TEACHER_USER = process.env.TEACHER_USER || 'Apoorva';
-const TEACHER_PASS = process.env.TEACHER_PASS || 'prince1234';
+const TEACHER_PASS = process.env.TEACHER_PASS || 'PpuExam@2026!';
 const MCQ_COUNT = parseInt(process.env.EXAM_MCQ_COUNT) || 20; // random MCQs drawn from the pool per student
 const DURATION = (parseInt(process.env.EXAM_DURATION_MIN) || 60) * 60; // seconds
 

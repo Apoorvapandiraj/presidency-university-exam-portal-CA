@@ -9,7 +9,7 @@ npm install --prefix client
 cp server/.env.example server/.env   # already created; edit secrets
 npm run dev          # client http://localhost:5173  |  API http://localhost:5001
 ```
-Teacher login: username `Apoorva`, password `prince1234` (change in `server/.env`: `TEACHER_USER`, `TEACHER_PASS`).
+Teacher login: username `Apoorva`, password `PpuExam@2026!` (change in `server/.env`: `TEACHER_USER`, `TEACHER_PASS`).
 
 ## Questions
 `server/seed/questions.json` is built from the two PPTs (CSA1500 – Problem Solving Techniques Using C, Module 1 & 2):
